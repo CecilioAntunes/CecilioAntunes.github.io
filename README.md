@@ -35,8 +35,8 @@
                     class="animate__animated animate__bounceInLeft animate__delay-4s">Tríadev's</a>
             </div>
             <!-- footer -->
-            <div class="footer animate__animated animate__bounceInUp animate__delay-5s">
-            <i>“Nós somos o que repetidamente fazemos. Excelência, assim, não é um ato, mas um hábito.” (Aristóteles) </i>
+            <div class="animate__animated animate__bounceInLeft animate__delay-5s">
+            <p>Nós somos o que repetidamente fazemos. Excelência, assim, não é um ato, mas um hábito. (Aristóteles) </p>
             </div>
         </div>
     </div>
